@@ -1,0 +1,8 @@
+# Default ignored files
+/../../MediPanel /.idea/shelf/
+/../../MediPanel /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../MediPanel /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../MediPanel /.idea/dataSources/
+/../../MediPanel /.idea/dataSources.local.xml
